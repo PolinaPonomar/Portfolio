@@ -1,5 +1,5 @@
 # Portfolio
-Список всех завершенных проектов с ссылками на них 
+Список всех завершенных проектов с ссылками на них. Все сервисы на JS и React адаптивны.
 
 ## React.js, Node.js:
 - Сервис по поиску фильмов: https://movies-explorer.ppol.nomoredomains.monster 
