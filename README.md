@@ -12,6 +12,8 @@
 ## React.js:
 - Интерфейс для сайта Hacker News: https://polinaponomar.github.io/hacker-news-interface/#/
     - код: https://github.com/PolinaPonomar/hacker-news-interface
+- Адаптивный лендинг кошачьего корма: https://polinaponomar.github.io/nyamushka/
+    - код: https://github.com/PolinaPonomar/nyamushka
 
 ## JS:
 - Сервис Mesto для создания альбома фотографий (по типу Instagram): https://polinaponomar.github.io/mesto/
