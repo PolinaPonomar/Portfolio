@@ -14,6 +14,8 @@
     - код: https://github.com/PolinaPonomar/hacker-news-interface
 - Адаптивный лендинг кошачьего корма: https://polinaponomar.github.io/nyamushka/
     - код: https://github.com/PolinaPonomar/nyamushka
+- Калькулятор лизинга автомобиля: https://polinaponomar.github.io/car-leasing-calculator/
+    - код: https://github.com/PolinaPonomar/car-leasing-calculator
 
 ## JS:
 - Сервис Mesto для создания альбома фотографий (по типу Instagram): https://polinaponomar.github.io/mesto/
