@@ -12,8 +12,10 @@
 ## React.js:
 - Интерфейс для сайта Hacker News: https://polinaponomar.github.io/hacker-news-interface/#/
     - код: https://github.com/PolinaPonomar/hacker-news-interface
+
 - Адаптивный лендинг кошачьего корма: https://polinaponomar.github.io/nyamushka/
     - код: https://github.com/PolinaPonomar/nyamushka
+
 - Калькулятор лизинга автомобиля: https://polinaponomar.github.io/car-leasing-calculator/
     - код: https://github.com/PolinaPonomar/car-leasing-calculator
 
