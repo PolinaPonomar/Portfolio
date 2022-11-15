@@ -18,6 +18,9 @@
 
 - Калькулятор лизинга автомобиля: https://polinaponomar.github.io/car-leasing-calculator/
     - код: https://github.com/PolinaPonomar/car-leasing-calculator
+    
+- Интерфейс для сайта Hacker News (last version):
+    - код: https://github.com/PolinaPonomar/hacker-news-interface-2022
 
 ## JS:
 - Сервис Mesto для создания альбома фотографий (по типу Instagram): https://polinaponomar.github.io/mesto/
